@@ -1,0 +1,32 @@
+body {
+    background-color: lightpink;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background-color: lightcoral;
+    border: solid medium pink;
+    border-radius: 35px;
+    padding: 25px;
+    margin: 15px;
+}
+
+#box1 {
+    background-color: rgb(255, 182, 193);
+    height: 400px;
+    float: left;
+}
+
+#box2,
+#box3 {
+    float: right;
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    background-color: mistyrose;
+    margin-left: auto;
+    margin-right: auto;
+}
